@@ -1,2 +1,4 @@
-# motion_based_calibration
+# Motion Based Calibration
+
 Extrinsic calibration based on per-sensor ego-motion
+
