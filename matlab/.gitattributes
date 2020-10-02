@@ -1,0 +1,7 @@
+data filter=lfs diff=lfs merge=lfs -text
+data/kitti_velodyne_cam0.mat filter=lfs diff=lfs merge=lfs -text
+data/brookshiredq filter=lfs diff=lfs merge=lfs -text
+data/brookshire.mat filter=lfs diff=lfs merge=lfs -text
+data/kitti_planar_velodyne_cam0.mat filter=lfs diff=lfs merge=lfs -text
+data/brookshiredq/sensor2.txt filter=lfs diff=lfs merge=lfs -text
+data/brookshiredq/sensor1.txt filter=lfs diff=lfs merge=lfs -text
